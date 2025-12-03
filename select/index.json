@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "とがる",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2025-12-03T23:29:16.983212Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "とがる",
+      "artist": "Ayano Kaneko",
+      "has_synced": false,
+      "path": "select/01_とがる_Ayano_Kaneko.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "とがる",
+      "artist": "Kaneko Ayano",
+      "has_synced": false,
+      "path": "select/02_とがる_Kaneko_Ayano.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "とがる",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/03_とがる_カネコアヤノ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とがる",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_とがる_カネコアヤノ.txt"
+    }
+  ]
+}
